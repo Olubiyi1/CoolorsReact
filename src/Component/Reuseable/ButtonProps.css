@@ -1,0 +1,117 @@
+.StyleOne{
+    background-color:#0066ff;
+    padding: 10px;
+    width: 70px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    font-size: 14px;
+    width: 70px;
+  
+    align-items: center;
+    justify-content: center;
+    font-weight:500;
+
+    img{
+        display: none;
+    }
+    #Nheader{
+        padding: 0px;
+        margin: 0px;
+    }
+    #Rank{
+        display: none;
+    }
+
+}
+.StyleTwo{
+    background-color:#0066ff;
+    padding: 14px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight:500;
+
+    img{
+        display: none;
+    }
+    #Nheader{
+        padding: 0px;
+        margin: 0px;
+    }
+    #Rank{
+        display: none;
+    }
+
+}
+.StyleThree{
+    background-color:transparent;
+    padding: 14px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid;
+    color: black;
+    font-weight:500;
+    margin-bottom: 20px;
+
+    img {
+        display: none;
+    }
+    #Nheader{
+        padding: 0px;
+        margin: 0px;
+    }
+    #Rank{
+        display: none;
+    }
+
+}
+.StyleFour{
+    background-color:transparent;
+    padding: 12px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1.4px solid red;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img{
+        margin-right: 10px;
+        width: 30px;
+    }
+
+    #contentDiv{
+       margin-left: 5px;
+        display: flex;
+        flex-direction: column;
+        font-size: 16px;
+        margin: 0px;
+        padding: 0px;
+    }
+    #Nheader{
+        padding: 0px;
+        margin: 0px;
+        color: red;
+        font-size: smaller;
+        text-align: start;
+        font-weight: bold;
+        font-size: 10px;
+    }
+    #Rank{
+        font-weight: bold;
+        color: red;
+        margin: 0px;
+        padding: 0px;
+        letter-spacing: 1px;
+    }
+}

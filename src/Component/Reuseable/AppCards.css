@@ -1,0 +1,119 @@
+    .AppCards{
+        border: 1px solid;
+        width: 200px;
+        height: 300px;
+        background-color: lightgray;
+        border: none;
+        border-radius: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+
+        img{
+            width: 50px;
+    
+        }       
+        p,h1{
+            text-align: center;
+        }
+        p{
+            line-height: 25px;
+            font-size: 16px;
+        }
+    }
+
+    .StylesOne #Hidden{
+        display: none;
+    }
+    .StylesOne:hover{
+        background-color:aquamarine;
+        #Hidden{
+            display: block;
+            font-size: 40px;
+            text-align: center;
+            font-weight: 600;
+            font-weight: bolder;
+        }
+        img, h1, p {
+            display: none;
+        }
+    
+    }
+    
+    .StylesTwo #Hidden{
+        display: none;
+    }
+    .StylesTwo:hover{
+        background-color:rgb(101, 255, 101);
+        #Hidden{
+            display: block;
+            font-size: 40px;
+            text-align: center;
+            font-weight: 600;
+            font-weight: bolder;
+        }
+        img, h1, p {
+            display: none;
+        }
+    
+    }
+
+    .StylesThree #Hidden{
+        display: none;
+    }
+    .StylesThree:hover{
+        background-color:pink;
+        #Hidden{
+            display: block;
+            font-size: 40px;
+            text-align: center;
+            font-weight: 600;
+            font-weight: bolder;
+        }
+        img, h1, p {
+            display: none;
+        }
+    
+    }
+
+    .StylesFour #Hidden{
+        display: none;
+    }
+    .StylesFour:hover{
+        background-color:lightblue;
+        #Hidden{
+            display: block;
+            font-size: 40px;
+            text-align: center;
+            font-weight: 600;
+            font-weight: bolder;
+        }
+        img, h1, p {
+            display: none;
+        }
+    
+    }
+
+    .StylesFive #Hidden{
+        display: none;
+    }
+    .StylesFive:hover{
+        background-color:rgb(224, 214, 9);
+        #Hidden{
+            display: block;
+            font-size: 35px;
+            text-align: center;
+            font-weight: 600;
+            font-weight: bolder;
+        }
+        img, h1, p {
+            display: none;
+        }
+    
+    }
+
+
+
+    
